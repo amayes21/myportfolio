@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+ <head>
+  <title>Eat Drink and be Merry</title>
+ </head>
+
+ <body>
+<h1 style="color:green; text-align:center; font-family:brush script MT">Eat Drink and be Merry</h1>
+<ul style="list-style-type:none; margin:0; padding:0;overflow:hidden;background-color:grey;">
+	<li style="float:left;margin:0px;display:block;text-align:center;padding:10px 18px; text-decoration:none"><a style="color:green" href="home.asp">Home</a></li>
+	<li style="float:left;margin:0px;display:block;text-align:center;padding:10px 18px; text-decoration:none"><a style="color:green" href="menu.html">Menu</a></li>
+	<li style="float:left;margin:0px;display:block;text-align:center;padding:10px 18px; text-decoration:none"><a style="color:green" href="contact.asp">Contact</a></li>
+</ul>
+
+<h2 style="color:green;margin-left:20%;font-family:brush script MT">About</h2>
+ <p style="font-family:garamond;text-align:justify;margin-left:20%;margin-right:20%"> Eat Drink and be Merry has been established since 2021 and is a online alcoholic store.
+     Our aim is to provide customers with the opportunity to buy premium alcoholic prodcuts from around the world within the UK.
+     So if you long for a local tipple you had on holiday but can't seem to find it at your local supermarket, then you've come to the right place. 
+ </p> 
+
+<script>
+console.log("Hello from thr HTML page");
+var array = ["hello", 2, true];
+var obj = {
+"fname":"Ashley"
+"age":24
+};
+
+console.log(obj["age"]);
+
+</script>
+ </body>
+
+</html>
